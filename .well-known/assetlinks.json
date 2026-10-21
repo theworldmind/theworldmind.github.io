@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.theworldmind.twa",
+    "sha256_cert_fingerprints": ["7F:96:DD:98:5F:14:40:C0:BC:07:85:D3:FF:D4:E7:74:CF:1C:C3:AB:EC:6E:38:BC:1D:99:A7:DB:DE:B5:1F:64"]
+  }
+}]
